@@ -1,2 +1,2 @@
 # Music-Synthesizer-using-Python
-My Projects
+Implementation and a detailed Study and analysis of Karplus Strong Algorithm
